@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "성격 및 취미"
+categories: jekyll update
+---
+
+
