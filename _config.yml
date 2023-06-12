@@ -26,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: jaeyong1114
+    #twitter: jaeyong1114
     github:  jaeyong1114
-    linkedIn: in/jaeyong1114
+    #linkedIn: in/jaeyong1114
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
