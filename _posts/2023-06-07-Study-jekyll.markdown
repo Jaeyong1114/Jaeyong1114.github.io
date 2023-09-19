@@ -12,6 +12,7 @@ categories: jekyll update
 --------------------------------------------------------------------------------------------------------------------------------------  
 
 2) 단위 변환기 앱 - ConstraintLayout UI를 이용한 간단한 단위 변환기 앱
+
    addTextChangedListener, ViewBinding, onSaveInstanceState, ActivityLifeCycle 
 
    [unitconvertPractice][unitc]
@@ -19,6 +20,7 @@ categories: jekyll update
 --------------------------------------------------------------------------------------------------------------------------------------
 
 3) 응급 의료정보 앱 - ConstraintLayout UI를 이용한 응급 의료정보 등록 및 확인 앱
+
     UI - guidline, layer  , Style, RadioButton , CheckBox , Spinner , DatePicker 
     Kotlin scope function with 사용, Intent를 이용한 화면전환
 
@@ -27,6 +29,7 @@ categories: jekyll update
 --------------------------------------------------------------------------------------------------------------------------------------
 
 4) 계산기 앱 - ConstraintLayout의 Flow UI를 이용한 계산기 앱
+
   UI - ConstraintLayout -Flow , Style, color(Light/Dark) , theme
   Kotlin when, StringBuilder, DecimalFormat 사용
 
@@ -35,6 +38,7 @@ categories: jekyll update
   --------------------------------------------------------------------------------------------------------------------------------------
 
   5) 스톱워치 앱 - ConstraintLayout UI 이용한 스톱워치 앱
+
     UI - ProgressBar 
     AlertDialog, Thread 처리 - runOnUiThread  , ToneGenerator(효과음) 사용
 
