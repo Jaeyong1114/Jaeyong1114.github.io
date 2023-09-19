@@ -4,7 +4,8 @@ title:  "Project"
 categories: jekyll update
 ---
 1) 조기조태 APP - 사용자의 취향을 통해 맛집, 관광지 추천 어플  
-Firebase, 네이버 API , GPS 기능 활용 ...  
+Firebase를 이용한 DB연동 및 네이버 API를 이용한 로그인 구현
+GPS 활용하여 가까운 위치 추천 기능
 
 
 [조기조태][jogi]  
@@ -12,7 +13,7 @@ Firebase, 네이버 API , GPS 기능 활용 ...
   
 --------------------------------------------------------------------------------------------------------------------------------------  
 
-2) 
+2) APP
 
 
 [jogi]: https://github.com/Jaeyong1114/jogijotae
