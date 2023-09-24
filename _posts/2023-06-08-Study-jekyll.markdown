@@ -46,7 +46,7 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
-  6) 단어장 앱 - RecyclerView를 이용한 단어장 앱
+  6) 단어장 앱 - RecyclerView, Room을 이용한 단어장 관리 앱
 
     UI - RecyclerView, Adpater, TextInputLayout, TextInputEditText, Chip Group , Chip , ConstraintLayout - Barrier
 
