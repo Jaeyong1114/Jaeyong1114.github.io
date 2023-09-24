@@ -46,6 +46,17 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+  6) 단어장 앱 - RecyclerView를 이용한 단어장 앱
+
+    UI - RecyclerView, Adpater, TextInputLayout, TextInputEditText, Chip Group , Chip , ConstraintLayout - Barrier
+
+    Android - Room 
+
+
+  [stopwatchPractice][stopwatch]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -53,6 +64,7 @@ categories: jekyll update
 [widget]: https://github.com/Jaeyong1114/widgetPractice
 [calculator]: https://github.com/Jaeyong1114/calculatorPractice
 [stopwatch]: https://github.com/Jaeyong1114/stopwatchPractice
+[notepad]: https://github.com/Jaeyong1114/notepadPractice
 
 
 
