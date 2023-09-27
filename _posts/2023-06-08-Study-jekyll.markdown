@@ -68,6 +68,15 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+  8) 음악 재생 앱 - 백그라운드에서 음악 재생 앱
+
+    MediaPlayer , Foreground Service , Notification, BroadcastReciever
+
+
+  [musicplay][musicplay]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -77,6 +86,7 @@ categories: jekyll update
 [stopwatch]: https://github.com/Jaeyong1114/stopwatchPractice
 [notepad]: https://github.com/Jaeyong1114/notepadPractice
 [Gallery]: https://github.com/Jaeyong1114/MyGalleryPractice
+[musicplay]:https://github.com/Jaeyong1114/MusicPlayApp
 
 
 
