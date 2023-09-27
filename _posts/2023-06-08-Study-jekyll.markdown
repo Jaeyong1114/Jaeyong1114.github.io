@@ -56,6 +56,17 @@ categories: jekyll update
   [notepad][notepad]
 
   --------------------------------------------------------------------------------------------------------------------------------------
+  
+  7) 나만의 앨범 앱 - RecyclerView와 ListAdapter 을 이용한 갤러리 이미지 불러오기 앱
+
+    UI - RecyclerView , ListAdpater , ViewPager2 , Toolbar , selector
+
+    Android - Permission , SAF , registerForActivityResult
+
+
+  [Gallery][Gallery]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -65,6 +76,7 @@ categories: jekyll update
 [calculator]: https://github.com/Jaeyong1114/calculatorPractice
 [stopwatch]: https://github.com/Jaeyong1114/stopwatchPractice
 [notepad]: https://github.com/Jaeyong1114/notepadPractice
+[Gallery]: https://github.com/Jaeyong1114/MyGalleryPractice
 
 
 
