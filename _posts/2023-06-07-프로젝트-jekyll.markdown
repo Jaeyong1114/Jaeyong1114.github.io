@@ -3,7 +3,7 @@ layout: post
 title:  "Project"
 categories: jekyll update
 ---
-1) 조기조태 APP - 사용자의 취향을 통해 맛집, 관광지 추천 어플  
+1) 조기조태 APP (졸업 프로젝트) - 사용자의 취향을 통해 맛집, 관광지 추천 어플  
 Firebase를 이용한 DB연동 및 네이버 API를 이용한 로그인 구현
 GPS 활용하여 가까운 위치 추천 기능
 
