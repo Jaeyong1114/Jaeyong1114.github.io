@@ -85,6 +85,15 @@ categories: jekyll update
   [mywebtoon][mywebtoon]
 
   --------------------------------------------------------------------------------------------------------------------------------------
+  
+   10) 소켓 통신 연습 앱 - OkHttp,Gson 라이브러리 사용 및 소켓통신 연습
+
+    OkHttp, Gson Library , Socket
+
+
+  [socketPractice][socketPractice]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -97,6 +106,7 @@ categories: jekyll update
 [Gallery]: https://github.com/Jaeyong1114/MyGalleryPractice
 [musicplay]:https://github.com/Jaeyong1114/MusicPlayApp
 [mywebtoon]:https://github.com/Jaeyong1114/MyWebtoonAPP
+[socketPractice]:https://github.com/Jaeyong1114/SocketPractice
 
 
 
