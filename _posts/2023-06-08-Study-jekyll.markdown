@@ -95,6 +95,15 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+   11) 깃허브 레포지토리 검색 앱 - Retrofit과 Gtihub API 를 사용한 깃허브 유저 레포지토리 검색
+
+    Retrofit, Github Open API, RecyclerView, ListAdapter, Handler
+
+
+  [repositorySearch][repositorySearch]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -107,6 +116,7 @@ categories: jekyll update
 [musicplay]:https://github.com/Jaeyong1114/MusicPlayApp
 [mywebtoon]:https://github.com/Jaeyong1114/MyWebtoonAPP
 [socketPractice]:https://github.com/Jaeyong1114/SocketPractice
+[repositorySearch]:https://github.com/Jaeyong1114/RepositorySearch
 
 
 
