@@ -104,6 +104,16 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+  12) 뉴스 앱 - 뉴스 사이트의 RSS 를 이용한 뉴스 앱
+
+    UI - Material Design(CardView, Chip) , RecyclerView, WebView ,Lottie Animation
+
+    Retrofit , Jsoup , Glide 
+
+  [newsAPP][newsAPP]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -117,6 +127,7 @@ categories: jekyll update
 [mywebtoon]:https://github.com/Jaeyong1114/MyWebtoonAPP
 [socketPractice]:https://github.com/Jaeyong1114/SocketPractice
 [repositorySearch]:https://github.com/Jaeyong1114/RepositorySearch
+[newsAPP]:https://github.com/Jaeyong1114/NewsApp
 
 
 
