@@ -138,7 +138,7 @@ categories: jekyll update
 [socketPractice]:https://github.com/Jaeyong1114/SocketPractice
 [repositorySearch]:https://github.com/Jaeyong1114/RepositorySearch
 [newsAPP]:https://github.com/Jaeyong1114/NewsApp
-[newsAPP]:https://github.com/Jaeyong1114/ChatApp
+[chatAPP]:https://github.com/Jaeyong1114/ChatApp
 
 
 
