@@ -124,6 +124,16 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+  13) 네이버 맛집 앱 - 네이버맵 API 를 이용한 맛집 검색
+
+    NaverMap, Naver Search Open API
+
+    Retrofit, RecyclerView, BottomSheetBehavior, Moshi
+
+  [naverRestaurant][naverRestaurant]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -139,6 +149,7 @@ categories: jekyll update
 [repositorySearch]:https://github.com/Jaeyong1114/RepositorySearch
 [newsAPP]:https://github.com/Jaeyong1114/NewsApp
 [chatAPP]:https://github.com/Jaeyong1114/ChatApp
+[naverRestaurant]:https://github.com/Jaeyong1114/NaverMapRestaurant
 
 
 
