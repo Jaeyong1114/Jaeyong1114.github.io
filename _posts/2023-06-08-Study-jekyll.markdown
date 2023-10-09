@@ -144,6 +144,16 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+    15) 랜덤 이미지 앱 - 랜덤이미지 띄우기(MVC,MVP,MVVM 패턴 연습) 
+
+    Rxjava, Retrofit, Databinding, BindingAdapter , Open API  
+
+    
+
+  [RandomImageAPP][RandomImageAPP]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -161,6 +171,8 @@ categories: jekyll update
 [chatAPP]:https://github.com/Jaeyong1114/ChatApp
 [naverRestaurant]:https://github.com/Jaeyong1114/NaverMapRestaurant
 [FinancialServiceAPP]:https://github.com/Jaeyong1114/FinancialServiceAPP
+[RandomImageAPP]:https://github.com/Jaeyong1114/RandomImageAPP
+
 
 
 
