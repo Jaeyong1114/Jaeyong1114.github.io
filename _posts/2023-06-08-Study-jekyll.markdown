@@ -134,6 +134,16 @@ categories: jekyll update
 
   --------------------------------------------------------------------------------------------------------------------------------------
 
+  14) 금융 서비스 UI 연습 앱 - 보안(셔플) 키패드 , 휴대폰 인증 UI 
+
+    GridLayout, DataBinding, BindingAdapter , Regular Expression, TextInputLayout 
+
+    
+
+  [FinancialServiceAPP][FinancialServiceAPP]
+
+  --------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 [numCount]: https://github.com/Jaeyong1114/numbercountPractice
@@ -150,6 +160,7 @@ categories: jekyll update
 [newsAPP]:https://github.com/Jaeyong1114/NewsApp
 [chatAPP]:https://github.com/Jaeyong1114/ChatApp
 [naverRestaurant]:https://github.com/Jaeyong1114/NaverMapRestaurant
+[FinancialServiceAPP]:https://github.com/Jaeyong1114/FinancialServiceAPP
 
 
 
